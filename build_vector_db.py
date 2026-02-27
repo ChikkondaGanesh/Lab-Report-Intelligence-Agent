@@ -32,3 +32,4 @@ vectorstore = FAISS.from_documents(docs, embedding_model)
 vectorstore.save_local("rag/vector_db")
 
 print("✅ Vector DB Created Successfully!")
+#'..'..
