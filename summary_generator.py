@@ -89,3 +89,4 @@ def generate_summary(final_report, score, risk):
     )
 
     return "\n".join(summary)
+    #..
