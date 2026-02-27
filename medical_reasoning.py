@@ -41,3 +41,4 @@ def generate_medical_report(final_report):
         full_report += "\n-----------------------------\n"
 
     return full_report
+    #...
