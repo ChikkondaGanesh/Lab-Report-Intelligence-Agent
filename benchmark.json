@@ -43,5 +43,6 @@
   "Vitamin D": { "low": 20, "high": 50 },
   "Vitamin B12": { "low": 200, "high": 900 },
   "Iron": { "low": 60, "high": 170 },
-  "Ferritin": { "low": 24, "high": 336 }
+  "Ferritin": { "low": 24, "high": 336 },
+  "Ferritin1": { "low": 24, "high": 336 }
 }
